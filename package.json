@@ -19,6 +19,8 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.2.1",
     "postcss": "^8.4.4",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
     "vue-dummy": "^1.1.3"
   }
 }
